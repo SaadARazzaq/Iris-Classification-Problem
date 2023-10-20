@@ -3,7 +3,7 @@
   ![image](https://github.com/SaadARazzaq/Iris-Classification-Problem/assets/123338307/29f890b4-827d-4c9a-8fa6-64162b8523a3)
 
   This repository contains complete report on Iris Classification along with the code for training and evaluating a Decision Tree classifier and a Random Forest classifier on the Iris dataset. The Iris dataset is a popular dataset in machine learning and consists of measurements of four features of Iris flowers: sepal length, sepal width, petal length, and petal width. The goal is to classify the Iris flowers into three different species: Iris-setosa, Iris-versicolor, and Iris-virginica.
-
+ 
 ## Dataset
 
 The Iris dataset used in this project is loaded from the "Iris.csv" file.
